@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //comment ni alivio
-        //
+        // Joseph Alivio
         //e comment inyong full name ubos ani, igoy
         // Christian Alynn Igoy
         //e comment inyong full name ubos ani, yumang
