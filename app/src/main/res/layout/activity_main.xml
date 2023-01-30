@@ -44,7 +44,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/write_your_name_here"
+        android:text="Charles Alchie Yumang"
         tools:layout_editor_absoluteX="58dp"
         tools:layout_editor_absoluteY="248dp"
         app:layout_constraintStart_toStartOf="parent"
