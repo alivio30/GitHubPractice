@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         //comment ni alivio
         // Joseph Alivio
         //e comment inyong full name ubos ani, igoy
-        // Christian Alynn Igoy
+        // Christian Alynn Igoy sadasdas
         //e comment inyong full name ubos ani, yumang
-        // Charles YUmang gwapo kaayo rawr
+        // Charles YUmang gwapo kaayo rawr git merge
     }
 }
