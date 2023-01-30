@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //e comment inyong full name ubos ani, igoy
         // Christian Alynn Igoy
         //e comment inyong full name ubos ani, yumang
-        //
+        // Charles ALchie Yumang
     }
 }
